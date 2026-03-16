@@ -1,6 +1,3 @@
-# 💫 About Me:
-👋 About Me<br>Studente di Informatica, sempre in cerca di nuove sfide nel codice. Mi piace costruire progetti semplici ma solidi, senza fronzoli.<br>Appassionato di calcio (giocatore di pallone e tifoso giallorosso 🟡🔴), credo nella costanza e nel lavoro di squadra — in campo come nello sviluppo.<br>💻 Linguaggi con cui smanetto: Java, JavaScript, HTML/CSS, un po’ di Python.<br>⚡ Obiettivo: crescere come developer, un commit alla volta.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://m.facebook.com/christianfraffa.christian/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/christian.maiolo?igsh=d293emsza2wyc3Nn&utm_source=qr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:christian.sanmauro14@gmail.com) 
